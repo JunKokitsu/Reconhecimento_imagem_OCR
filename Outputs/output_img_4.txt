@@ -1,0 +1,12 @@
++
+vitor@kokitsu:~
+Q=
+vitor@kokitsu:~$su
+Senha:
+root@kokitsu:/home/vitor#cdDownloads/
+root@kokitsu:/home/vitor/Downloads#dpkg-iinput-remapper-2.0.1.deb
+dpkg:aviso:ldconfig'nãofoiencontradoemPATHounãoéexecutável
+dpkg:aviso:'start-stop-daemon'nãofoiencontradoemPATHounãoéexecutável
+dpkg:erro:2programasesperadosnãoforamencontradosemPATHounãosãoexecutáveis
+Nota:aPATHdorootnormalmentedeveconter/usr/local/sbin,/usr/sbine/sbin
+root@kokitsu:/home/vitor/Downloads#
